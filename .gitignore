@@ -1,0 +1,7 @@
+public/wp-content/upgrade/*
+*.sublime-project
+*.sublime-workspace
+readme.html
+license.txt
+.log
+.DS_Store
